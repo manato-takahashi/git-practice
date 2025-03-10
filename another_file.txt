@@ -1,1 +1,2 @@
 新しいファイルをmainブランチで作成
+feature/rebase-practiceブランチで作業中にmainブランチでanother_file.txtが更新された
